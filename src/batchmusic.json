@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Avenged Sevenfold"},
+                  "SongTitle": {"S": "Buried Alive"},
+                  "AlbumTitle": {"S": "Nightmare"},
+                  "SongYear": {"S": "2010"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Avenged Sevenfold"},
+                  "SongTitle": {"S": "So Far Away"},
+                  "AlbumTitle": {"S": "Nightmare"},
+                  "SongYear": {"S": "2010"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Avenged Sevenfold"},
+                  "SongTitle": {"S": "Shepherd of Fire"},
+                  "AlbumTitle": {"S": "Hail to the King"},
+                  "SongYear": {"S": "2013"}
+                }
+            }
+        }
+      ]
+}
